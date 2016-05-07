@@ -13,6 +13,14 @@ h1, h2, h3 {
     font-family: "Cambria";
 }
 
+a {
+    color: #000000;
+}
+
+a:hover {
+    color: #eb9316;
+}
+
 ul.navbar-nav {
     font-family: "Leelawadee UI";
     font-size: 16px;
@@ -29,6 +37,7 @@ ul.navbar-nav {
 
 #main_heading {
     color: white;
+    font-size: 50px;
 }
 
 .main_p {
@@ -41,6 +50,11 @@ ul.navbar-nav {
 
 .float {
     float: right;
+}
+
+.book-img {
+    height: 250px;
+    margin-bottom: 10px;
 }
 
 
